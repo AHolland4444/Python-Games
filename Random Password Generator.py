@@ -1,10 +1,5 @@
 
 
-# Andrew Holland
-# 3/25/24
-# Project 6: Random Password Generator
-
-
 # Importing random and setting variables
 import random
 error = False
