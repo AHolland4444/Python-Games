@@ -1,10 +1,5 @@
 
 
-# Andrew Holland
-# 4/4/24
-# Project 7: Tic-Tac-Toe Game
-
-
 # This code is not my own. I got it from ChatGPT. 
 # However, I thought it would be a great learning opportunity to use "someone else's" code, figure out how it works, and moddify it to my needs.
 
