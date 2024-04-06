@@ -12,7 +12,6 @@ Go!
 """)
 
     import random
-    end = False
     lives = 10
     comp = random.randint(1,100)
     while (lives >= 1):
